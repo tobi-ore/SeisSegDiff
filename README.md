@@ -13,7 +13,7 @@ This code is based on [Label-Efficient Semantic Segmentation with Diffusion Mode
 The paper investigates the representations learned by the state-of-the-art DDPMs and shows that they capture high-level semantic information valuable for downstream vision tasks. We design a simple semantic segmentation approach that exploits these representations and outperforms the alternatives in the few-shot operating point.
 
 <div align="center">
-  <img width="100%" alt="DDPM-based Segmentation" src="https://storage.yandexcloud.net/yandex-research/ddpm-segmentation/figs/new_ddpm_seg_scheme.png">
+  <img width="100%" alt="DDPM-based Segmentation" src="https://drive.google.com/open?id=18a3r_xqHI2UwD0SolQTIHdzNwfxyQSg1&usp=drive_fs">
 </div>
 
 &nbsp;
