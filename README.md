@@ -1,8 +1,6 @@
 # SeisSegDiff
 An efficient few-shot segmentation diffusion model for seismic facies classification
 
-**currently underdevelopment**
-
 This code is based on [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/pdf/2112.03126.pdf) and [guided-diffusion](https://github.com/openai/guided-diffusion). 
 
 **Note:** use **--recurse-submodules** when clone.
