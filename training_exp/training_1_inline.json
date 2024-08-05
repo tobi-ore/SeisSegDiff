@@ -1,0 +1,36 @@
+{
+  "model_type": "ddpm",
+  "category": "F3",
+  "number_class": 6,
+  "ignore_label": 7,
+  "validation_path": "",
+  "testing_path": "../testing",
+  "model_path": "checkpoints/ema_0.9999_035000.pt",
+  "model_num": 1,
+  "steps": [
+    50,
+    150,
+    250
+  ],
+  "blocks": [
+    4,
+    5,
+    6,
+    8,
+    10
+  ],
+  "dim": [
+    256,
+    256,
+    5376
+  ],
+  "batch_size": 64,
+  "max_training": 30,
+  "training_number": 100,
+  "testing_number": 10000,
+  "upsample_mode": "bilinear",
+  "share_noise": true,
+  "input_activations": false,
+  "training_path": "../1_inline",
+  "exp_dir": "pixel_classifiers/training/1_inline"
+}
