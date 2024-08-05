@@ -1,10 +1,9 @@
-# Label-Efficient Semantic Segmentation with Diffusion Models
+# SeisSegDiff
+An efficient few-shot segmentation diffusion model for seismic facies classification
 
-**ICLR'2022** [[Project page]](https://yandex-research.github.io/ddpm-segmentation/)
+**currently underdevelopment**
 
-Official implementation of the paper [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/pdf/2112.03126.pdf)
-
-This code is based on [datasetGAN](https://github.com/nv-tlabs/datasetGAN_release) and [guided-diffusion](https://github.com/openai/guided-diffusion). 
+This code is based on [Label-Efficient Semantic Segmentation with Diffusion Models](https://arxiv.org/pdf/2112.03126.pdf) and [guided-diffusion](https://github.com/openai/guided-diffusion). 
 
 **Note:** use **--recurse-submodules** when clone.
 
