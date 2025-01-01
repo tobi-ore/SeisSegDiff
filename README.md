@@ -6,6 +6,10 @@ This code is based on [Label-Efficient Semantic Segmentation with Diffusion Mode
 **Note:** use **--recurse-submodules** when clone.
 
 &nbsp;
+## Publication
+This work has resulted in 2 published papers in Computers & Geosciences: [SeisSegDiff: A label-efficient few-shot texture segmentation diffusion model for seismic facies classification](https://doi.org/10.1016/j.cageo.2024.105823) and [Evaluating key parameters impacting the performance of SeisSegDiff model for seismic facies classification](https://doi.org/10.1016/j.cageo.2024.105829). 
+
+&nbsp;
 ## Overview
 
 The work investigates the use of diffusion models to enhance the generalization capabilities and accuracy of deep learning models for seismic facies segmentation.
